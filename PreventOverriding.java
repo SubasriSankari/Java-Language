@@ -1,6 +1,6 @@
 
 class Parent{
-    private void func(){
+    final void func(){
         System.out.println("This is from Parent");
     }
 }

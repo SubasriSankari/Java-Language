@@ -10,6 +10,7 @@ public class Hashmap{
         map.put(1,"suba");
         map.put(2,"sri");
         map.put(3,"sanakri");
+        map.put(1,"subasri");
 
         //Set set = map.entrySet();
         //Iterator iter = set.iterator();

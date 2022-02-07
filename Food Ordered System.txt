@@ -1,0 +1,13 @@
+Application name : Food Ordered System
+
+
+Topics that going to use in application :
+
+1.Abstraction
+2.Encapsulation
+3.Methods
+4.Serialization or File System
+5.Regex
+6.Class Object
+7.HashMap
+8.MultiThreading
